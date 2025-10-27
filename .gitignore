@@ -1,0 +1,36 @@
+# Compiled source files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.VC.db
+*.opensdf
+*.sdf
+*.suo
+*.xcodeproj
+*.xcworkspace
+.vscode/
+
+# Unreal generated folders
+*.log
+*.user
+*.tlog
+*.iobj
+*.ipdb
+
+# Ignore config that changes per user
+*.local
+
+# Ignore build outputs
+Build/*/Binaries/
+
+# Ignore backups and autosaves
+Backup/
+Autosaves/
+
+# Ignore project files specific to user
+*.userprefs
+*.user
+
+# Ignore engine files
+.vs/
