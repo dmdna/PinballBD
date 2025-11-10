@@ -12,7 +12,7 @@ We have included several physics interactions in our project.
 
 Firstly, we have included some bumpers that launch the ball at certain velocities, allowing for added momentum to keep the pinball going. This naturally adds the possible interaction of being launched into another bumper, which brings about that classic pinball feel.
 
-We also added some speed panels, where the ball will receive an added force in the direction the arrows are pointing at. This will give a ball a "nudge" effect as it is travelling through the table. This will naturally increase the ball's speed in one direction, which will also slow it down if it happens to be travelling in the other direction.
+We also added some speed panels, where the ball will receive an added force in the direction the arrows are pointing at. This will give a ball a "nudge" effect as it is travelling through the table, which will naturally increase the ball's speed in one direction and even slow it down if it happens to be travelling in the other direction.
 
 On top of that, we included an orange frictionless pad that slightly modifies the ball's behavior, which will hopefully add a touch of surprise for the player in terms of how they expect the ball to move.
 
@@ -45,4 +45,4 @@ The game will also track the player's High Score during their play session, ince
 
 ## Resources
 
-Everything we used for this project was either part of or derived from the default assets provided by Unreal Engine 5. This includes Static Meshes, Materials, Particle Effects
+Everything we used for this project was either part of or derived from the default assets provided by Unreal Engine 5. This includes Static Meshes, Materials, Particle Effects, etc.
